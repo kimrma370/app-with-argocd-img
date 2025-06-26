@@ -1,8 +1,9 @@
 resources:
   - argocd-img-deployment.yaml
   - argocd-img-service.yaml
+  - manifest/argocd-app.yaml
 images:
   - name: nginx
     newName: kimrma370/app-with-argocd-img
-    newTag: "4fe0d65"
+    newTag: "6135a96"
   
