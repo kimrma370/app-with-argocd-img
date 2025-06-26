@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: back
-        image: kgmdyd0/app-with-argocd-img:21385ce345f4df6e6214ff0a4344505898e9e212
+        image: kgmdyd0/app-with-argocd-img:21a29f991e44eb7cde18d3f0e989dfb6ab93ecf21385ce345f4df6e6214ff0a4344505898e9e212
