@@ -3,6 +3,6 @@ resources:
   - argocd-img-service.yaml
 images:
   - name: nginx
-    newName: nginx
-    newTag: "1.23"
+    newName: kimrma370/app-with-argocd-img
+    newTag: "4fe0d65"
   
