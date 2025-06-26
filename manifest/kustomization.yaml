@@ -2,7 +2,7 @@ resources:
   - argocd-img-deployment.yaml
   - argocd-img-service.yaml
 images:
-  - name: argocd-img-container
+  - name: kimrma370/app-with-argocd-img
     newName: nginx
     newTag: "1.25"
   
