@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: argocd-img-container
-        image: kimrma370/app-with-argocd-img:5ad400c
+        image: kimrma370/app-with-argocd-img:6fcfc18
