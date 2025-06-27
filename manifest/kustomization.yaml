@@ -2,6 +2,7 @@ resources:
   - argocd-img-deployment.yaml
   - argocd-img-service.yaml
   - argocd-app.yaml
+  - sealed-secret.yaml
 images:
   - name: nginx
     newName: kimrma370/app-with-argocd-img
